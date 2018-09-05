@@ -1,0 +1,3 @@
+
+
+database_connection = SQLite3::Database.new('db/my_database.db')
